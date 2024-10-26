@@ -3,9 +3,11 @@
 @tailwind utilities; 
 @font-face {
     font-family: 'open-sans';
-    src: url('./assets/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+    src: url('./assets/fonts/Open_Sans/static/OpenSans-Light.ttf') format('truetype');
+    /* src: url('./assets/fonts/Open_Sans/static/OpenSans-Medium.ttf') format('truetype'); */
+
 }
 @font-face {
     font-family: 'manrope';
-    src: url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+    src: url('./assets/fonts/Manrope/static/Manrope-Light.ttf') format('truetype');
 }

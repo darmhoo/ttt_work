@@ -14,9 +14,16 @@ export default {
         'manrope': ['manrope', 'serif']
       },
       fontSize: {
+        '58': "58px",
         '64': "64px",
-        "16": "16px"
+        "16": "16px",
+        "20": "20px"
+
+      },
+      lineHeight: {
+        '84': '84px'
       }
+     
     },
   },
   plugins: [],
